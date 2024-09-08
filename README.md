@@ -123,6 +123,3 @@ Configuration settings can be found in `src/main/resources/application.propertie
 
 If you’d like to contribute to this project, please fork the repository and submit a pull request. For detailed contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-### License
-
-This project is licensed under the [MIT License](LICENSE).
